@@ -1,34 +1,34 @@
 [[object_store_ffi]]
 arch = "aarch64"
-git-tree-sha1 = "bddafaa882e2dc6a9156c2536b2d54ee285a42fe"
+git-tree-sha1 = "c10296b8d24d9d2a8199a5897bbb27581110db0a"
 os = "macos"
 
     [[object_store_ffi.download]]
-    sha256 = "7bc4d46bfdc47aca178680c51e8b678eed2481f473ade4b9d9943a90a2b27154"
-    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.0+0/object_store_ffi.v0.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "bf10c7596eec4523b42ae88fabdabdad086deab898944ff03ed230a6d087b8f7"
+    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.1+0/object_store_ffi.v0.5.1.aarch64-apple-darwin.tar.gz"
 [[object_store_ffi]]
 arch = "aarch64"
-git-tree-sha1 = "9dc77645f2a662c34ca39466781f302aefebb58a"
+git-tree-sha1 = "9c9d6fb6a2b5c5162065ebe3c75d62e628bd6917"
 libc = "glibc"
 os = "linux"
 
     [[object_store_ffi.download]]
-    sha256 = "e557cb559c5f7e082a3bdf5de9745bb810bb8d28abe4f4a37708eab2a2801bc9"
-    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.0+0/object_store_ffi.v0.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "4fbd5eaa7e11926dbafad2096cddcd614bb4f621fc0475de75ccda744b7d51f5"
+    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.1+0/object_store_ffi.v0.5.1.aarch64-linux-gnu.tar.gz"
 [[object_store_ffi]]
 arch = "x86_64"
-git-tree-sha1 = "101ac1ebedb77ddffddecce391cd3081e518683d"
+git-tree-sha1 = "276470ea68e23224ff44e770dbba865795d74897"
 os = "macos"
 
     [[object_store_ffi.download]]
-    sha256 = "5396d555084c7c10581f6e0cf257387d3897b36657725d9caed08ede9e03fa0b"
-    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.0+0/object_store_ffi.v0.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "42cb1443e3f4552d678c1ff75107a86f13f39bc33dc52005e9b56e4bf3e0e9f6"
+    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.1+0/object_store_ffi.v0.5.1.x86_64-apple-darwin.tar.gz"
 [[object_store_ffi]]
 arch = "x86_64"
-git-tree-sha1 = "c40e72824b0820e87564255f77067646ddc2db99"
+git-tree-sha1 = "89fca92db87e1fa626fbc5d043fd8fb991a1f5fe"
 libc = "glibc"
 os = "linux"
 
     [[object_store_ffi.download]]
-    sha256 = "5b8478b3953b2739e1c068575768dbf085001a1a913c6792279f9e09152fc721"
-    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.0+0/object_store_ffi.v0.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "14dcb9efc0275df9211720b7a5d7df66a51c0b5b09368fbe24ce17794267b80c"
+    url = "https://github.com/JuliaBinaryWrappers/object_store_ffi_jll.jl/releases/download/object_store_ffi-v0.5.1+0/object_store_ffi.v0.5.1.x86_64-linux-gnu.tar.gz"
